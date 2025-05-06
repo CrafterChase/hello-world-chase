@@ -25,8 +25,9 @@ To edit this repository in MakeCode.
 
 
 
-# PONG FOR MICROBIT
-# Pong For Microbit is Micropython code that allows you to play 2 player pong with someone else
+### PONG FOR MICROBIT
+* Pong For Microbit is Micropython code that allows you to play 2 player pong with someone else
+* The file name in the repository is Pong for Microbit
 
 
 
